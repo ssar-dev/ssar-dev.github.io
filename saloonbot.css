@@ -1,0 +1,25 @@
+body{
+    background: black url("airline.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+div.form {
+  border-radius: 20px;
+  background-color: #3494d4;
+  border: none;
+  color: #FFFFFF;
+  text-align: right;
+  font-size: 20px;
+  padding: 20px;
+  width: 300px;
+  transition: all 0.5s;
+  cursor: pointer;
+  float: right;
+}
+
+div.submit {
+	text-align: center;
+	padding: 10px;
+}
